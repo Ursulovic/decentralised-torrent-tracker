@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Decentralised-torrent-tracker.props" />
+</Project>

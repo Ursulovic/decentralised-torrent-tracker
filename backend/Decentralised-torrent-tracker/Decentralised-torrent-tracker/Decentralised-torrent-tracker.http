@@ -1,0 +1,6 @@
+@Decentralised_torrent_tracker_HostAddress = http://localhost:5029
+
+GET {{Decentralised_torrent_tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
