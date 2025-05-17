@@ -8,12 +8,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="HtmlAgilityPack" Version="1.12.1" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2"/>
+        <PackageReference Include="StackExchange.Redis" Version="2.8.37" />
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Background\" />
       <Folder Include="Controllers\" />
-      <Folder Include="Scrappers\Implementations\" />
       <Folder Include="Services\Contracts\" />
       <Folder Include="Services\Implementations\" />
     </ItemGroup>

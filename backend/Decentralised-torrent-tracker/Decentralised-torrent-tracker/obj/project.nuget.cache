@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "0h1bymiPBaE=",
+  "dgSpecHash": "EmEzC82mXXg=",
   "success": true,
   "projectFilePath": "/home/ivan/Desktop/decentralised-torrent-tracker/backend/Decentralised-torrent-tracker/Decentralised-torrent-tracker/Decentralised-torrent-tracker.csproj",
   "expectedPackageFiles": [
+    "/home/ivan/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512",
     "/home/ivan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "/home/ivan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/home/ivan/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/ivan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/ivan/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/home/ivan/.nuget/packages/stackexchange.redis/2.8.37/stackexchange.redis.2.8.37.nupkg.sha512",
+    "/home/ivan/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
